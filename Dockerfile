@@ -1,5 +1,5 @@
 ARG ARCH=
-FROM alpine:3.11.6
+FROM alpine:3.13
 
 LABEL maintainer="Mark <mark.binlab@gmail.com>"
 
